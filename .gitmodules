@@ -1,3 +1,4 @@
 [submodule "drawio"]
 	path = drawio
 	url = https://github.com/dahoerl/drawio-metaeditor
+	branch = master
